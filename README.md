@@ -8,7 +8,7 @@
   <a href="mailto:adityapandey3470@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio-qggiyy3u-aditya-portfolio1.vercel.app">
+  <a href="https://portfolio-qggivyy3u-aditya-portfolio1.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
