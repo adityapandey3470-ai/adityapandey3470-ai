@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
