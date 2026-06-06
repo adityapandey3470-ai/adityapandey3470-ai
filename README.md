@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight" width="80%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight" width="80%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityapandey3470-ai&theme=tokyonight" width="80%"/>
 </p>
 
 <p align="center">
