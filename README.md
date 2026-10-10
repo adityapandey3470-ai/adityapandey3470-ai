@@ -19,7 +19,7 @@
 
 - 🎓 B.Tech CSE Graduate from **Mangalmay Group of Institutions, Greater Noida**
 - 💼 Aspiring **Java Backend Developer** actively looking for internships
-- 🔭 Currently working on **Smart Emergency SOS System**
+- 🔭 Currently working on **Data Automation Tool**
 - 🌱 Currently learning **Spring Boot • Microservices • Kafka • Docker • Kubernetes • System Design**
 - 💬 Ask me about **Java, DSA, OOP, Git**
 - 📫 Reach me at **adityapandey3470@gmail.com**
@@ -46,7 +46,7 @@
 
 ### 🚀 Projects
 
-#### 🆘 Site Expense Tracker
+#### 🏗️ Site Expense Tracker
 > A web-based application to manage site expenses, track transactions, and handle expense requests with secure authentication and role-based access control.
 
 **Tech Used:**
@@ -56,21 +56,20 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight" width="80%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityapandey3470-ai&theme=tokyonight" width="80%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityapandey3470-ai&theme=tokyonight"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=adityapandey3470-ai&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityapandey3470-ai&color=blue&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=adityapandey3470-ai&label=Profile%20Views&color=6366f1&style=for-the-badge" />
 </p>
+
 
 <p align="center">⭐ <i>Open to internships and collaboration opportunities!</i> ⭐</p>
