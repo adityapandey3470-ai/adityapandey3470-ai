@@ -46,13 +46,12 @@
 
 ### 🚀 Projects
 
-#### 🆘 Smart Emergency SOS System
-> A real-time emergency alert system that sends SOS alerts with live location to nearby emergency services.
+#### 🆘 Site Expense Tracker
+> A web-based application to manage site expenses, track transactions, and handle expense requests with secure authentication and role-based access control.
 
 **Tech Used:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ---
