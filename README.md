@@ -60,7 +60,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight&hide_border=true&card_width=500" />
 </p>
 
 <p align="center">
