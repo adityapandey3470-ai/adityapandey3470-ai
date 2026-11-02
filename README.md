@@ -13,7 +13,7 @@
   <a href="mailto:adityapandey3470@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/adityapandey3470/" target="_blank">
+  <a href="https://leetcode.com/u/aditya_0901/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/adityapandey3470-ai" target="_blank">
