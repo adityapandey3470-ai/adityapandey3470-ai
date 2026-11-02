@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm Aditya Chaturvedi</h1>
-<h3 align="center">Java Backend Developer | B.Tech CSE Graduate '26 | Open to Internships 🚀</h3>
+<div align="center">
+
+# Aditya Chaturvedi
+### Java Backend Developer | B.Tech CSE Graduate '26 | Open to Internships
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-chaturvedi-85b77b219">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aditya-chaturvedi-85b77b219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-seven-gilt-65.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:adityapandey3470@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-seven-gilt-65.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://leetcode.com/u/adityapandey3470/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/adityapandey3470-ai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 B.Tech CSE Graduate from **Mangalmay Group of Institutions, Greater Noida**
-- 💼 Aspiring **Java Backend Developer** actively looking for internships
-- 🔭 Currently working on **Data Automation Tool**
-- 🌱 Currently learning **Spring Boot • Microservices • Kafka • Docker • Kubernetes • System Design**
-- 💬 Ask me about **Java, DSA, OOP, Git**
-- 📫 Reach me at **adityapandey3470@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### ⟡ About Me
+
+- B.Tech CSE Graduate from **Mangalmay Group of Institutions, Greater Noida**
+- Aspiring **Java Backend Developer** actively looking for internships
+- Currently working on **Data Automation Tool**
+- Currently learning **Spring Boot • Microservices • Kafka • Docker • Kubernetes • System Design**
+- Ask me about **Java, DSA, OOP, Git**
+- Reach me at **adityapandey3470@gmail.com**
+
+---
+
+### ◈ Tech Stack
 
 **Languages & Core:**
 
@@ -44,9 +54,9 @@
 
 ---
 
-### 🚀 Projects
+### ❖ Projects
 
-#### 🏗️ Site Expense Tracker
+#### Site Expense Tracker
 > A web-based application to manage site expenses, track transactions, and handle expense requests with secure authentication and role-based access control.
 
 **Tech Used:**
@@ -56,20 +66,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+### ▣ GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight&hide_border=true&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityapandey3470-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey3470-ai&layout=compact&theme=tokyonight&hide_border=true&card_width=500" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=adityapandey3470-ai&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=adityapandey3470-ai&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityapandey3470-ai&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=adityapandey3470-ai&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
-<p align="center">⭐ <i>Open to internships and collaboration opportunities!</i> ⭐</p>
+<p align="center"><i>Open to internships and collaboration opportunities!</i></p>
